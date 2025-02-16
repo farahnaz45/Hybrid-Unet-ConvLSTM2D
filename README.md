@@ -9,21 +9,6 @@ This repository implements **Your Model Name**, a deep learning-based precipitat
 This model builds on deterministic and diffusion-based components for improved prediction accuracy.
 
 
----
-
-### **5️ Add Dataset Information**
-Use bullet points for clarity.
-
-```markdown
-## **Datasets**
-This project uses two datasets:
-- **MIINST Dataset**: Used for pre-training.
-- **CIKM2017 Dataset**: Used for fine-tuning.
-
-  **Download Datasets**:
-- [MIINST Dataset](dataset-link)
-- [CIKM2017 Dataset](https://competitions.codalab.org/competitions/17168#learn_the_details)
-
 
 
 
