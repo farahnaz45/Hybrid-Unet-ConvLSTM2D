@@ -1,3 +1,29 @@
+# **Project Title Hybrid-Unet**
+**A two-stage trained hybrid Unet-ConvLSTM2D for enhanced precipitation nowcasting**
+
+## **Introduction**
+This repository implements **Your Model Name**, a deep learning-based precipitation nowcasting model using a two-stage training approach.
+- **Stage 1**: Pre-training on the MIINST dataset.
+- **Stage 2**: Fine-tuning on the CIKM2017 dataset.
+
+This model builds on deterministic and diffusion-based components for improved prediction accuracy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This repository uses CIKM2017 dataset for precipiation nowcasting.
 
 
