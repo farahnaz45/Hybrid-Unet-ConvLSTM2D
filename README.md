@@ -12,11 +12,7 @@ This model builds on deterministic and diffusion-based components for improved p
 # **Dataset**
 
 
-/dataset/
-    ├── train-images-idx3-ubyte   # Training images
-    ├── train-labels-idx1-ubyte   # Training labels
-    ├── t10k-images-idx3-ubyte    # Test images
-    ├── t10k-labels-idx1-ubyte    # Test labels
+
 
 
 
