@@ -42,7 +42,18 @@ This project uses two datasets:
 - **Each sequence spans 90 minutes**, with frames every **6 minutes**.
 
 **📂 Dataset Structure:**
-/dataset/ ├── Train/ │ ├── sample1/ │ │ ├── radar_0.5km/ │ │ ├── radar_1.5km/ │ │ ├── radar_2.5km/ │ │ └── radar_3.5km/ │ ├── sample2/ │ └── ... ├── Validation/ │ ├── sample1/ │ └── ... ├── Test/ │ ├── sample1/ │ ├── sample2/ │ └── ...
+ ├── Train/ │
+     ├── sample1/ │ 
+     ├── radar_0.5km/ │
+     ├── radar_1.5km/ │ 
+     ├── radar_2.5km/ │ 
+     │ └── radar_3.5km/ │ 
+     ├── sample2/ │ └── ... 
+├── Validation/ │ 
+      ├── sample1/ │ └── ...
+├── Test/ │
+      ├── sample1/ │ 
+      ├── sample2/ │ └── ...
 
 
 
