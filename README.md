@@ -10,6 +10,39 @@ This model builds on deterministic and diffusion-based components for improved p
 
 
 # **Dataset**
+## **📂 Datasets**
+This project uses two datasets:
+
+### **1️ MNIST Dataset (Pre-training)**
+**📥 Download Link:**  
+- [MNIST Dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+
+**📝 Description:**  
+- **70,000 grayscale images** of handwritten digits (0-9).
+- Each image is **28×28 pixels**.
+- **Training Set:** 60,000 images
+- **Testing Set:** 10,000 images
+
+**🖼️ Example Images:**
+![MNIST Example](https://www.tensorflow.org/images/MNIST.png)
+
+---
+
+### **2️⃣ CIKM2017 Dataset (Fine-Tuning)**
+**📥 Download Link:**  
+- [CIKM2017 Dataset](https://github.com/yaoyichen/CIKM-Cup-2017)
+
+**📝 Description:**  
+- Radar reflectivity maps covering a **101×101 km** region over **Shenzhen, China**.
+- Each radar image consists of **101×101 pixels**, representing a **1×1 km** square.
+- The dataset is divided into:
+  - **Training Set:** 7,000 sequences
+  - **Validation Set:** 2,000 sequences
+  - **Testing Set:** 3,000 sequences
+- **Each sequence spans 90 minutes**, with frames every **6 minutes**.
+
+**📂 Dataset Structure:**
+
 
 
 
